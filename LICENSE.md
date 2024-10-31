@@ -1,0 +1,1 @@
+It’s hard to go wrong with the MIT License if you’re starting with a blank slate. It’s short, easily understood, and allows anyone to do anything so long as they keep a copy of the license, including your copyright notice. You’ll be able to release the project under a different license if you ever need to.
